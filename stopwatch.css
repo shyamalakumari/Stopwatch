@@ -1,0 +1,50 @@
+body{
+    /* background-color: rgb(49, 3, 104); */
+background-image: url(../media/snow.webp);
+background-repeat: no-repeat;
+background-size: cover;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 60px;
+    margin-top: 10rem;
+    
+}
+p{
+    font-size: 30px;
+    color: white;
+}
+.count{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-size: 40px;
+    margin-top: 5rem;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    gap: 2rem;
+    font-size: 25px;
+    
+ 
+}
+button{
+    height: 30px;
+    width: 60px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    border: none;
+    color:#195b8b;
+    background-color: white;
+}
